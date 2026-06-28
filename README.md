@@ -1,5 +1,5 @@
 # Engenharia de Prompts com NotebookLM
-
+![Banner](banner.png)
 ![GitHub repo size](https://img.shields.io/github/repo-size/carloscalheiros/engenharia-de-prompts-notebooklm)
 ![Status](https://img.shields.io/badge/status-concluído-green)
 
