@@ -1,5 +1,10 @@
 # Engenharia de Prompts com NotebookLM
 
+![GitHub repo size](https://img.shields.io/github/repo-size/carloscalheiros/engenharia-de-prompts-notebooklm)
+![Status](https://img.shields.io/badge/status-concluído-green)
+
+Projeto desenvolvido na DIO utilizando NotebookLM para estudo de Engenharia de Prompts.
+
 Projeto desenvolvido como parte do desafio da DIO utilizando o NotebookLM para estudar Engenharia de Prompts por meio de aprendizagem ativa, curadoria de fontes e experimentação de prompts.
 
 ## 📖 Contexto
